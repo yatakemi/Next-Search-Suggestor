@@ -1,5 +1,5 @@
-# Vue 3 + TypeScript + Vite
+# Next Search Suggestor
 
-This template should help get you started developing with Vue 3 and TypeScript in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A Chrome extension that generates the next most likely Google search links based on the information from the sites the user has visited, using Chrome's built-in AI.
 
-Learn more about the recommended Project Setup and IDE Support in the [Vue Docs TypeScript Guide](https://vuejs.org/guide/typescript/overview.html#project-setup).
+I created this for the [Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/?ref_feature=challenge&ref_medium=homepage-recommended-hackathons), but unfortunately, I missed the deadline due to a misunderstanding.
