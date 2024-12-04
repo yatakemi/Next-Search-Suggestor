@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import HelloWorld from './components/HelloWorld.vue'
+import Popup from './components/Popup.vue'
 </script>
 
 <template>
   <Suspense>
-    <HelloWorld />
+    <Popup />
     <template #fallback>Loading...</template>
   </Suspense>
 </template>

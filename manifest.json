@@ -1,6 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "CRXJS Vue Vite Example",
+  "name": "Next Search Suggestor",
   "version": "1.0.0",
-  "action": { "default_popup": "index.html" }
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icons/popup16.png"
+  },
+  "icons": {
+    "16": "icons/popup16.png",
+    "48": "icons/popup48.png",
+    "128": "icons/popup128.png"
+  },
+  "permissions": ["activeTab", "scripting"]
 }
